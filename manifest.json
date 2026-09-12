@@ -1,0 +1,8 @@
+{
+  "name": "Poshan Suraksha MIS",
+  "short_name": "Poshan MIS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1B3A2F",
+  "theme_color": "#1B3A2F"
+}
